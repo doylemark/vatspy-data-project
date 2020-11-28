@@ -1,0 +1,14 @@
+{
+  "name": "vatspy-data-project",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js --ignore ./logs"
+  },
+  "keywords": [],
+  "author": "Mark Doyle",
+  "license": "MIT",
+  "dependencies": {
+    "monk": "^7.3.2"
+  }
+}
